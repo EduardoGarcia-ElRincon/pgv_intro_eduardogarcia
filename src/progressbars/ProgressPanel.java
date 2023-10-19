@@ -28,7 +28,7 @@ public class ProgressPanel extends javax.swing.JPanel {
         jProgressBar1.setMaximum(50);
         jProgressBar1.setStringPainted(true);
 
-        System.out.println("Hola");
+        System.out.println("Adios");
     }
 
 
