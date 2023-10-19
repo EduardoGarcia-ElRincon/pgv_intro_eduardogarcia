@@ -27,7 +27,10 @@ public class ProgressPanel extends javax.swing.JPanel {
         
         jProgressBar1.setMaximum(50);
         jProgressBar1.setStringPainted(true);
+
+        System.out.println("Hola");
     }
+
 
     /**
      * This method is called from within the constructor to initialize the form.
