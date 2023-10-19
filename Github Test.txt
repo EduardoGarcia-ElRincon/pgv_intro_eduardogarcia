@@ -2,3 +2,8 @@ Hola caracola
 if (this.funciona()) {
 	System.out.println("cool");
 }
+else{
+
+	System.out.println("Not Cool");
+
+}
