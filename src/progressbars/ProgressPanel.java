@@ -25,7 +25,7 @@ public class ProgressPanel extends javax.swing.JPanel {
     public ProgressPanel() {
         initComponents();
         
-        jProgressBar1.setMaximum(50);
+        jProgressBar1.setMaximum(100);
         jProgressBar1.setStringPainted(true);
 
         System.out.println("Hola");
